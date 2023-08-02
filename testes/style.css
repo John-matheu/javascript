@@ -4,6 +4,7 @@
 
 body {
     background-color:silver;
+    ;
     color:rgb(62, 41, 180);
     display: flex;
     align-items: center;
@@ -16,6 +17,7 @@ body {
     border-radius: 15px;
     overflow: hidden;
     position: relative;
+    
 }
 
 .profile_card img {
